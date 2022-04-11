@@ -1,0 +1,40 @@
+.header {
+    max-height:10000px ;
+    height: 10000px;
+    width: 1895px;
+    background-color: rgb(168, 160, 150)
+}
+.logo2 {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.hear2 {
+    padding-left: 100px;
+}
+.hear3 {
+    padding-left: 100px;
+}
+.hear4 {
+    padding-left: 100px;
+}
+
+.hh1 {
+    font-size: 22px;
+    color:rgb(238, 203, 160);
+    
+}
+.hh2 {
+    font-size: 19px;
+    color:rgb(100, 93, 85);
+}
+.hh3 {
+    font-size: 17px;
+    padding-left: 40px;
+    color:rgb(100, 93, 85);
+}
+.hh4 {
+    padding-left: 40px;
+}
+li {
+    list-style-type: none;
+}
